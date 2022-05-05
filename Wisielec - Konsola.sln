@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wisielec - Konsola", "Wisielec - Konsola\Wisielec - Konsola.csproj", "{9744A5A7-DE75-473F-9750-65580129B1EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CF9AAAB4-C606-43BF-9ABA-1A73609D5527}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9744A5A7-DE75-473F-9750-65580129B1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9744A5A7-DE75-473F-9750-65580129B1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9744A5A7-DE75-473F-9750-65580129B1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9744A5A7-DE75-473F-9750-65580129B1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2C0A96-A12E-4D51-B8E8-09F2B2DB40CA}
+	EndGlobalSection
+EndGlobal
